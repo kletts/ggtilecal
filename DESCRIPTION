@@ -1,6 +1,6 @@
 Package: ggtilecal
 Title: Create static (and interactive) overview calendars using ggplot2
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(person(given = "Cynthia A.", family = "Huang",
           email = "cynthia.huang@monash.edu", role = c("aut", "cre"),
